@@ -1,5 +1,5 @@
 # Project Name: 
-NEXUS-Bank--Capstone-Project
+NEXUS Bank - Capstone Project
 ## Project Description:
 Customer Segmentation and Deposit Detection System Case Study 
 ## Objective:
